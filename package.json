@@ -1,0 +1,10 @@
+{
+  "name": "bolet-staff-orders",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BOLET çalışan sipariş ekranı ve sipariş API'si",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0"
+  }
+}
